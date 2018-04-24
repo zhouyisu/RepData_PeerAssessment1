@@ -2,8 +2,8 @@
 title: "Reproducible Research Course Project 1"
 author: "Yisu Zhou"
 date: '2018-04-24'
-output:
-    html_document:
+output: 
+  html_document:
     keep_md: true
 ---
 
